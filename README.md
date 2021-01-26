@@ -1,2 +1,1 @@
-# reactEggPrimary
-This is basic react tutorial
+# react_eggPrimary
